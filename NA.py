@@ -39,3 +39,8 @@ print(my_name*3)
 
 print('hello, world. This is my first python string.'.split('.'))
 
+v1 = (1, 2, 3)
+
+v2= [1, 1, 2, 2, 3, 4]
+print(len(v1))
+print (len(('this is a string').split()))
